@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563164723027",
+    "project_id": "expansemate",
+    "storage_bucket": "expansemate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563164723027:android:b2cad73276f43e675ad3a6",
+        "android_client_info": {
+          "package_name": "com.example.expanse_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2V0tU3Ka3fkgpctVg45x-4i5atUR8NDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563164723027:android:2363c7541c4ce7635ad3a6",
+        "android_client_info": {
+          "package_name": "com.project.expansemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2V0tU3Ka3fkgpctVg45x-4i5atUR8NDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
